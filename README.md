@@ -1,12 +1,4 @@
-# weatherapp
-A responsive weather app built with HTML, CSS, and JavaScript. Fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, and wind speed.
-
-
-
-
-
 # 🌦️ Weather App
-
 A responsive weather app built using HTML, CSS, and JavaScript. It fetches real-time weather data from the OpenWeatherMap API and displays temperature, humidity, and wind speed.
 
 ## 🔗 Live Demo
